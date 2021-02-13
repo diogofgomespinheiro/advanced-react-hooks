@@ -1,6 +1,3 @@
-// useContext: simple Counter
-// http://localhost:3000/isolated/exercise/03.js
-
 import * as React from 'react'
 
 const CountContext = React.createContext()
